@@ -3,6 +3,7 @@ import { MicVAD, defaultRealTimeVADOptions } from "@ricky0123/vad-web"
 import React, { useEffect, useReducer, useState } from "react"
 
 export { utils } from "@ricky0123/vad-web"
+export * as ort from "onnxruntime-web"
 
 interface ReactOptions {
   startOnLoad: boolean

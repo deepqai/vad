@@ -11,7 +11,7 @@
     "voice-control",
     "offline-speech-recognition"
   ],
-  "homepage": "https://github.com/ricky0123/vad",
+  "homepage": "https://github.com/deepqai/vad",
   "version": "0.0.2",
   "license": "ISC",
   "main": "dist/index.js",
